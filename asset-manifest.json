@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rahul-zomatoClone/static/css/main.ef50165f.chunk.css",
+    "main.js": "/rahul-zomatoClone/static/js/main.120e93b4.chunk.js",
+    "main.js.map": "/rahul-zomatoClone/static/js/main.120e93b4.chunk.js.map",
+    "runtime-main.js": "/rahul-zomatoClone/static/js/runtime-main.f887c6b3.js",
+    "runtime-main.js.map": "/rahul-zomatoClone/static/js/runtime-main.f887c6b3.js.map",
+    "static/js/2.e1018376.chunk.js": "/rahul-zomatoClone/static/js/2.e1018376.chunk.js",
+    "static/js/2.e1018376.chunk.js.map": "/rahul-zomatoClone/static/js/2.e1018376.chunk.js.map",
+    "index.html": "/rahul-zomatoClone/index.html",
+    "static/css/main.ef50165f.chunk.css.map": "/rahul-zomatoClone/static/css/main.ef50165f.chunk.css.map",
+    "static/js/2.e1018376.chunk.js.LICENSE.txt": "/rahul-zomatoClone/static/js/2.e1018376.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f887c6b3.js",
+    "static/js/2.e1018376.chunk.js",
+    "static/css/main.ef50165f.chunk.css",
+    "static/js/main.120e93b4.chunk.js"
+  ]
+}
